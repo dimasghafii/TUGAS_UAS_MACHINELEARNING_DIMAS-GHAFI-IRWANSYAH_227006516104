@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-UAS Machine Learning — Dataset 4 (Intel Berkeley Lab Sensor Data)
-Author : (isi nama Anda)
-NIM    : (isi NIM Anda)
-Kelas  : (isi kelas Anda)
+
 
 Tujuan & Alasan (singkat):
 - Tujuan utama: Deteksi anomali bacaan sensor lingkungan (temp/kelembapan/CO₂/light) per sensor dan secara global.
