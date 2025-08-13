@@ -1,0 +1,11 @@
+{
+  "rows_loaded": 299999,
+  "rows_resampled": 63246,
+  "sensors": 9,
+  "time_min": "2004-02-28T00:55:00",
+  "time_max": "2004-04-01T23:50:00",
+  "use_subset": true,
+  "resample_rule": "5min",
+  "contamination": 0.01,
+  "test_days": 7
+}
